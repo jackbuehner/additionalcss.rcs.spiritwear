@@ -1,0 +1,8 @@
+.products-grid .gallery-item .product-media-container .product-media {
+    background-color: #f1f1f1;
+    border-bottom: 1px solid #e8eaed;
+    border-radius: 6px 6px 0 0;
+}
+.products-grid .gallery-item .product-media-container .product-item {
+    border-radius: 6px;
+}
